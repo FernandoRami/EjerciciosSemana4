@@ -1,0 +1,19 @@
+#dudas{
+    width: 300px;
+    height: 150px;
+}
+
+.formi{
+    border: 2px solid black;
+    background: rgb(83,114,115);
+    background: linear-gradient(0deg, rgba(83,114,115,1) 17%, rgba(45,227,253,1) 70%);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 600;
+}
+p{
+    text-align: center;
+}
